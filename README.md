@@ -49,4 +49,4 @@ python3 check/check.py http://127.0.0.1:8000/template/index.html --placeholders-
 
 ## 라이선스
 
-[MIT](LICENSE). 글꼴 파일은 위에 적은 대로 SIL Open Font License 1.1을 따른다.
+[MIT](LICENSE). 글꼴 파일은 SIL Open Font License 1.1을 그대로 따른다. 다른 사람의 저작물과 그 조건은 [NOTICE.md](NOTICE.md)에 적었다.
