@@ -46,3 +46,7 @@ python3 check/check.py http://127.0.0.1:8000/template/index.html --placeholders-
 
 - 지침의 바탕은 [antislop](https://github.com/miqdadbadjuber/anti-slop)(MIT)의 규칙이다. `GUIDE.md`는 그 규칙을 소개 페이지에 맞춰 직접 다시 쓴 것이고, 규칙 번호는 antislop의 번호다.
 - 글꼴은 [Pretendard](https://github.com/orioncactus/pretendard)다. SIL Open Font License 1.1이며 전문은 [template/assets/fonts/LICENSE.txt](template/assets/fonts/LICENSE.txt)에 있다.
+
+## 라이선스
+
+[MIT](LICENSE). 글꼴 파일은 위에 적은 대로 SIL Open Font License 1.1을 따른다.
